@@ -1,4 +1,4 @@
-# FS_DNR_StoreMap
+# FS_DNR_StoryMap
 
 This story map adds visual and geo-spatial depth to an already interesting story of forest dynamics. In August of 2022 the Emapr Lab and its partners from the Forest Service and Washington State’s Department of Natural Resources went out into the field to investigate modeled change detection efforts. These efforts endeavor to model the location of forest defoliation and mortality caused by various agents in the landscape. Thus, heading off into the forest with some forest health pros was the next best step to see how the model performed and understand edge cases.
 
