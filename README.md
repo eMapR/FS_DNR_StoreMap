@@ -5,3 +5,4 @@ This story map adds visual and geo-spatial depth to an already interesting story
 With maps in hand we headed north from Oregon State University to the eastside of the Washington Cascades to explore known locations of defoliation and mortality. These locations were outlined by Region 6 Forest Service Aerial Detection Survey (ADS), which have the difficult job of flying over all forested regions of Washington and Oregon to identify locations of defoliation and mortality. Thus, the ADS polygons seemed like a good place to get a feel for how our model performed. 
 
 This repo is the landing point for all the code and assets it takes to build such a story map. 
+<a href="https://clarype.github.io/FS_DNR_StoryMap/">Click Here</a>
